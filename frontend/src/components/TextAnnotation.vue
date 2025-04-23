@@ -15,21 +15,21 @@ const exampleData: TextItem[] = [
   {
     id: 1,
     text: "The quick brown fox jumps over the lazy dog.",
-    label: null,
+    label: 'Foo',
     created_at: new Date().toISOString(),
     project: 1
   },
   {
     id: 2,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    label: null,
+    label: 'Bar',
     created_at: new Date().toISOString(),
     project: 1
   },
   {
     id: 3,
     text: "To be or not to be, that is the question.",
-    label: null,
+    label: 'Baz',
     created_at: new Date().toISOString(),
     project: 1
   },
